@@ -55,3 +55,11 @@ customers have searched them.
 - Analyed each clusters using visualization techniques to find the insights.
 
 ![image](https://github.com/Hariharan161297/E-Commerce/assets/146412784/6fc8b4b8-0cef-4457-8d40-e4e3d7fce20f)
+
+### CLUSTER ANALYSIS:
+![Screenshot 2023-06-03 121730](https://github.com/SRIDHAR3131/E-commerce-Customer-Segmentation/assets/68391060/7e92e256-8952-4306-a985-fa6ec6a34354)
+
+
+### CONCLUSION:
+In E-commerce customer segmentation the k-Means clustering plays major role for identifying the purchase pattern based on customer interest ,Here I used silhoutte score for finding an optimal cluster number to predict the right n_cluster.
+After that I split the two types cluster 1 is previlge to moderate customer and cluster 0 is low-set of interest in purchasing
